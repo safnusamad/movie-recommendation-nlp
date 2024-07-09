@@ -20,12 +20,6 @@
     <li>Clone the repository:
         <pre><code>git clone [https://github.com/safnusamad/movie-recommendation-nlp.git]</code></pre>
     </li>
-    <li>Navigate to the project directory:
-        <pre><code>cd [YOUR PROJECT DIRECTORY]</code></pre>
-    </li>
-    <li>Install the required dependencies:
-        <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
 </ol>
 
 <h2>Exploratory Data Analysis (EDA)</h2>
@@ -35,10 +29,6 @@
         <pre><code>jupyter notebook EDA.ipynb</code></pre>
     </li>
 </ol>
-
-<h2>Usage</h2>
-<p>To use the movie recommendation system, run the following command:</p>
-<pre><code>python recommend.py</code></pre>
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! Please fork the repository and create a pull request with your changes.</p>
