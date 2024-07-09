@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Movie Recommendation System - Content Based Approach</title>
-</head>
 <body>
 
 <h1>Movie Recommendation System - Content Based Approach</h1>
