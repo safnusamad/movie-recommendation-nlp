@@ -18,19 +18,21 @@
 <p>To run this project locally, please follow these steps:</p>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone [YOUR GITHUB REPOSITORY URL]</code></pre>
+        <pre><code>git clone [https://github.com/safnusamad/movie-recommendation-nlp.git]</code></pre>
     </li>
     <li>Navigate to the project directory:
         <pre><code>cd [YOUR PROJECT DIRECTORY]</code></pre>
     </li>
-    <li>Create a virtual environment and activate it:
-        <pre><code>
-        python3 -m venv venv
-        source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-        </code></pre>
-    </li>
     <li>Install the required dependencies:
         <pre><code>pip install -r requirements.txt</code></pre>
+    </li>
+</ol>
+
+<h2>Exploratory Data Analysis (EDA)</h2>
+<p>All the EDA is performed in the file <code>EDA.ipynb</code>. This file includes various visualizations and statistical analyses to understand the dataset better. To view the EDA:</p>
+<ol>
+    <li>Open the Jupyter Notebook:
+        <pre><code>jupyter notebook EDA.ipynb</code></pre>
     </li>
 </ol>
 
